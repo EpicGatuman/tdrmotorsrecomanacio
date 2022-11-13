@@ -1,0 +1,1 @@
+Per executar-ho, cal posar en el directori del codi una carpeta anomenada ml-latest-small els arxius .csv, ja que així es referencien les dades al codi.
